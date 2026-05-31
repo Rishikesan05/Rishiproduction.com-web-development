@@ -1,6 +1,6 @@
 # Rishi Productions
 
-[![Live Website](https://img.shields.io/badge/Live%20Website-production.rishiware.com-00C49F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://production.rishiware.com)
+[![Live Website](https://img.shields.io/badge/Live%20Website-rishiware.com-00C49F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rishiware.com)
 
 
 Official website for **Rishi Productions**, a media and content production company.
